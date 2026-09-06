@@ -18,10 +18,12 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=921E54&width=435&lines=CHARACTER+SECTION!)](https://git.io/typing-svg)
 
-[mustard-fragger ](https://github.com/mustard-fragger) is pt's Flamefrags! (MCYT)
+[mustard-fragger ](https://github.com/mustard-fragger) is pt's Flamefrags!
 
-[Koushiro-Izzy](https://github.com/Koushiro-Izzy) is pt's Leowook! (MCYT)
+[Koushiro-Izzy](https://github.com/Koushiro-Izzy) is pt's Leowook! 
 
-[Iiquidsmooth](https://github.com/Iiquidsmooth) is pt's Theobaldthebird! (MCYT)
+[Iiquidsmooth](https://github.com/Iiquidsmooth) is pt's Theobaldthebird! 
 
-[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!(Fact Attack Adventures)
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!
+
+[SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
