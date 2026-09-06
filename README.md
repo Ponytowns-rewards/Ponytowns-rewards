@@ -3,7 +3,7 @@ https://ponytownawards.atabook.org/ NOMINATE NOW!!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot) [VAMPlRISM](https://github.com/VAMPlRISM)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn) 
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth) [Chemicalshot](https://github.com/Chemicalshot)
@@ -71,3 +71,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [creation0fhatred](https://github.com/creation0fhatred) is pt's John Doe!
 
 [galacticlegendd](https://github.com/galacticlegendd) is pt's Reinhard from legend of the galactic heros!
+
+[Glistenn](https://github.com/Glistenn) is pt's Itrapped from MM12! 
