@@ -1,16 +1,25 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
-<!--
-**Ponytowns-rewards/Ponytowns-rewards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+${\textsf{\color{#EFE5C1} Prettiest}}$
+[Iiquidsmooth](https://github.com/Iiquidsmooth) [Chemicalshot](https://github.com/Chemicalshot)
 
-Here are some ideas to get you started:
+${\textsf{\color{#EFE5C1} Top AFK'ers}}$
+[Iiquidsmooth](https://github.com/Iiquidsmooth)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+${\textsf{\color{#EFE5C1} Cuddliest players}}$
+
+
+${\textsf{\color{#EFE5C1} Pretty githubs}}$
+
+
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=921E54&width=435&lines=CHARACTER+SECTION!)](https://git.io/typing-svg)
+
+[mustard-fragger ](https://github.com/mustard-fragger) is pt's Flamefrags! (MCYT)
+
+[Koushiro-Izzy](https://github.com/Koushiro-Izzy) is pt's Leowook! (MCYT)
+
+[Iiquidsmooth](https://github.com/Iiquidsmooth) is pt's Theobaldthebird! (MCYT)
+
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!(Fact Attack Adventures)
