@@ -28,10 +28,10 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$
 
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
 
-[twottimey](https://github.com/twottimey)
+[twottimey](https://github.com/twottimey) is pt's Two Time!
 
-[kniferrific](https://github.com/kniferrific) is pt's ItzskeetXD662
+[kniferrific](https://github.com/kniferrific) is pt's ItzskeetXD662!
 
-[dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 
+[dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 !
 
-[
+
