@@ -41,3 +41,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [nitrypawliton](https://github.com/nitrypawliton) is pt's Boombox!
 
 [deadbridewalking](https://github.com/deadbridewalking) is pt's Ashswagg!
+
+[eversleeping-town](https://github.com/eversleeping-town) is pt's Ada Wong!
+
+[Ilove-him](https://github.com/Ilove-him) is pt's Wifies!
