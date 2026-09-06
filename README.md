@@ -39,3 +39,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Blame-John](https://github.com/BLAME-JOHN) is pt's Telamon!
 
 [nitrypawliton](https://github.com/nitrypawliton) is pt's Boombox!
+
+[deadbridewalking](https://github.com/deadbridewalking) is pt's Ashswagg!
