@@ -8,10 +8,10 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth)
 
-${\textsf{\color{#EFE5C1} Cuddliest players}}$
+${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
