@@ -73,3 +73,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [galacticlegendd](https://github.com/galacticlegendd) is pt's Reinhard from legend of the galactic heros!
 
 [Glistenn](https://github.com/Glistenn) is pt's Itrapped from MM12! 
+
+[cinnalemons](https://github.com/cinnalemons) is pt's Cinnamon Cookie!
+
+[killwaree](https://github.com/killwaree) is pt's Doctor Strange!
