@@ -3,7 +3,7 @@ https://ponytownawards.atabook.org/ NOMINATE NOW!!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth) [Chemicalshot](https://github.com/Chemicalshot)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [kniferrific](https://github.com/kniferrific)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth)
@@ -27,3 +27,11 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$
 [Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!
 
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
+
+[twottimey](https://github.com/twottimey)
+
+[kniferrific](https://github.com/kniferrific) is pt's ItzskeetXD662
+
+[dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 
+
+[
