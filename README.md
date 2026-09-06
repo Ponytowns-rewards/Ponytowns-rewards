@@ -8,10 +8,10 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth)
 
-${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific)
+${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific) [self-preservation8](https://github.com/self-preservation8)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink) [self-preservation8](https://github.com/self-preservation8)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -35,3 +35,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 !
 
 [DuMmY-Yo](https://github.com/DuMmY-Yo) is pt's Shedletsky!
+
+[Blame-John](https://github.com/BLAME-JOHN) is pt's Telamon!
+
+[nitrypawliton](https://github.com/nitrypawliton) is pt's Boombox!
