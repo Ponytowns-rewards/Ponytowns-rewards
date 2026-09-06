@@ -77,3 +77,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [cinnalemons](https://github.com/cinnalemons) is pt's Cinnamon Cookie!
 
 [killwaree](https://github.com/killwaree) is pt's Doctor Strange!
+
+[TheStarOfTheShoww](https://github.com/thestaroftheshoww) is pt's Dandy!
