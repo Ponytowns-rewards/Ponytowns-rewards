@@ -91,3 +91,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [plsticpup](https://github.com/plsticpup) is pt's Nightwing!
 
 [sebvsene](https://github.com/sebvsene) is pt's Jason Todd!
+
+[timstalkerdrake](https://github.com/timstalkerdrake) is pt's Tim Drake!
