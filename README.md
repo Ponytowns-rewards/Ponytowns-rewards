@@ -6,12 +6,12 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn) 
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth) [Chemicalshot](https://github.com/Chemicalshot)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup)
 
-${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific) [self-preservation8](https://github.com/self-preservation8) [Chemicalshot](https://github.com/Chemicalshot)
+${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink) [self-preservation8](https://github.com/self-preservation8)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -84,4 +84,8 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [god-of-stories](https://github.com/god-of-stories) is pt's Loki Laufeyson!
 
-[qnakin](https://github.com/qnakin) is pt's Anakin Skywalker
+[qnakin](https://github.com/qnakin) is pt's Anakin Skywalker!
+
+[plsticpup](https://github.com/plsticpup) is pt's Nightwing!
+
+[sebvsene](https://github.com/sebvsene) is pt's Jason Todd!
