@@ -141,3 +141,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [duxlucens](https://github.com/duxlucens) is pt's Remielle!
 
 [kazutorawr](https://github.com/kazutorawr) is pt's Kazutora Hanemiya!
+
+[bunchoffriends](https://github.com/bunchoffriends) is pt's Anthony Po! 
