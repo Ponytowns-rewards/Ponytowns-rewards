@@ -111,3 +111,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [architectfishh](https://github.com/architectfishh) is pt's Hummer5718!
 
 [carcrashxoxo](https://github.com/carcrashxoxo) is pt's Aspen (Azure) from Forsaken!
+
+[orchestrafuI](https://github.com/orchestrafuI) is pt's Malbear!
+
+[Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) is pt's Miles Morales!
+
+[LAWRlE](https://github.com/LAWRlE) is pt's Lawrie from brawl stars!
