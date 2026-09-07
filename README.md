@@ -10,7 +10,7 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon)
 
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot)
 
@@ -122,3 +122,10 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [pyrionlyx](https://github.com/pyrionlyx) is pt's GroxMC!
 
+[genderflux](https://github.com/genderflux) is pt's Astro!
+
+[genderflux](https://github.com/genderflux) is pt's Manny! (Funhouse)
+
+[MoonzyUzii](https://github.com/MoonzyUzii) is pt's Uzi Doorman (MD)!
+
+[arachnidace](https://github.com/arachnidace) is pt's Akkurone!
