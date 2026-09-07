@@ -117,3 +117,8 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) is pt's Miles Morales!
 
 [LAWRlE](https://github.com/LAWRlE) is pt's Lawrie from brawl stars!
+
+[infinitelygrey](https://github.com/infinitelygrey) is pt's Frostina (dvc)!
+
+[pyrionlyx](https://github.com/pyrionlyx) is pt's GroxMC!
+
