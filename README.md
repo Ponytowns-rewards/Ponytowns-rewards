@@ -105,3 +105,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [aeszz](https://github.com/aeszz) is pt's Clark Kent!
 
 [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ) is pt's Medkit from Phighting!
+
+[WhispedVanilla](https://github.com/WhispedVanilla) is pt's Slingshot from Phighting!
