@@ -101,3 +101,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [ramudaa](https://github.com/ramudaa) is pt's Parrotx2!
 
 [hoobae](https://github.com/hoobae) is pt's Mizi from ALNST!
+
+[aeszz](https://github.com/aeszz) is pt's Clark Kent!
