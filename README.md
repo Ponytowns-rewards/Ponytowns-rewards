@@ -83,3 +83,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [mydigitalescape](https://github.com/mydigitalescape) is pt's Robert Chase!
 
 [god-of-stories](https://github.com/god-of-stories) is pt's Loki Laufeyson!
+
+[qnakin](https://github.com/qnakin) is pt's Anakin Skywalker
