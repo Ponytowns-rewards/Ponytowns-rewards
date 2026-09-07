@@ -97,3 +97,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [timstalkerdrake](https://github.com/timstalkerdrake) is pt's Tim Drake!
 
 [5orrows](https://github.com/5orrows) is pt's Ichigo Kurosaki!
+
+[ramudaa](https://github.com/ramudaa) is pt's Parrotx2!
