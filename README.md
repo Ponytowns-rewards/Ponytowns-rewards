@@ -109,3 +109,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [WhispedVanilla](https://github.com/WhispedVanilla) is pt's Slingshot from Phighting!
 
 [architectfishh](https://github.com/architectfishh) is pt's Hummer5718!
+
+[carcrashxoxo](https://github.com/carcrashxoxo) is pt's Aspen (Azure) from Forsaken!
