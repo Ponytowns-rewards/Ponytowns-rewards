@@ -131,3 +131,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [arachnidace](https://github.com/arachnidace) is pt's Akkurone!
 
 [reflectivesea](https://github.com/reflectivesea) is pt's Padparadscha!
+
+[SUBSP4CE](https://github.com/SUBSP4CE) is pt's Subspace from Phighting!
+
+[WlTHERSKELETON](https://github.com/WlTHERSKELETON) is pt's Wither Skeleton!
