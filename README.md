@@ -79,3 +79,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [killwaree](https://github.com/killwaree) is pt's Doctor Strange!
 
 [TheStarOfTheShoww](https://github.com/thestaroftheshoww) is pt's Dandy!
+
+[mydigitalescape](https://github.com/mydigitalescape) is pt's Robert Chase!
+
+[god-of-stories](https://github.com/god-of-stories) is pt's Loki Laufeyson!
