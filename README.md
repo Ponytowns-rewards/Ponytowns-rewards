@@ -7,7 +7,7 @@ Ask if you want to be removed or change characters ^_^
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon)
@@ -137,3 +137,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [WlTHERSKELETON](https://github.com/WlTHERSKELETON) is pt's Wither Skeleton!
 
 [kuunae](https://github.com/kuunae) is pt's Kobeni!
+
+[duxlucens](https://github.com/duxlucens) is pt's Remielle!
+
+[kazutorawr](https://github.com/kazutorawr) is pt's Kazutora Hanemiya!
