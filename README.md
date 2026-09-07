@@ -1,5 +1,7 @@
 https://ponytownawards.atabook.org/ NOMINATE NOW!!
 
+! Notify if problematic people have been added !
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
