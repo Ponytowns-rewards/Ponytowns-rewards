@@ -10,12 +10,12 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3)
 
-${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot)
+${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -98,7 +98,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [5orrows](https://github.com/5orrows) is pt's Ichigo Kurosaki!
 
-[ramudaa](https://github.com/ramudaa) is pt's Parrotx2!
+[wifiesh](https://github.com/wifiesh) is pt's Parrotx2!
 
 [hoobae](https://github.com/hoobae) is pt's Mizi from ALNST!
 
@@ -143,3 +143,29 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [kazutorawr](https://github.com/kazutorawr) is pt's Kazutora Hanemiya!
 
 [bunchoffriends](https://github.com/bunchoffriends) is pt's Anthony Po! 
+
+[naturalharmoniaa](https://github.com/naturalharmoniaa) is pt's Natural Harmonia Gropius/N (Pokémon)!
+
+[SilverShepard](https://github.com/SilverShepard) is pt's Miles Morales!
+
+[purefatal](https://github.com/purefatal) is pt's Grimjow!
+
+[Aspenolia](https://github.com/Aspenolia) is pt's Lord Azurewrath from Regnum Sombra / Voidtales!
+
+[Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) is pt's Duke Thomas!
+
+[Bigguykoi](https://github.com/Bigguykoi) is pt's Tony Stark!
+
+[Navistel](https://github.com/Navistel) is pt's Dan Heng!
+
+[THEFA1THFUL](https://github.com/THEFA1THFUL) is pt's Sydney from dol!
+
+[Senros3](https://github.com/Senros3) is pt's Poison Ivy!
+
+[archangel-Gabriel-ALTernate](https://github.com/archangel-Gabriel-ALTernate) is pt's Peter Parker!
+
+[AmIBloomingyet](https://github.com/AmIBloomingyet) is pt's Bendu (dnb)!
+
+[fou11egacy](https://github.com/fou11egacy) is pt's Tartaglia/Childe/Ajax!
+
+[pupfies](https://github.com/pupfies) is pt's Clonefies!
