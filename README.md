@@ -169,3 +169,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [fou11egacy](https://github.com/fou11egacy) is pt's Tartaglia/Childe/Ajax!
 
 [pupfies](https://github.com/pupfies) is pt's Clonefies!
+
+[TheHacker7n7](https://github.com/TheHacker7n7) is pt's ThatMob!
