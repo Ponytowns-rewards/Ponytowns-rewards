@@ -193,3 +193,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [sweetdeathstar](https://github.com/sweetdeathstar) is pt's Cassandra Cain!
 
 [sorrowfulpredict](https://github.com/sorrowfulpredict) is pt's 1x1x1x1!
+
+[travisrapidd](https://github.com/travisrapidd) is pt's Travis Rapid from THE MOON I ROT BEHIND!
