@@ -10,7 +10,7 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict)
 
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking)
 
@@ -191,3 +191,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [sketchyremorse](https://github.com/sketchyremorse) is pt's Stephanie Brown!
 
 [sweetdeathstar](https://github.com/sweetdeathstar) is pt's Cassandra Cain!
+
+[sorrowfulpredict](https://github.com/sorrowfulpredict) is pt's 1x1x1x1!
