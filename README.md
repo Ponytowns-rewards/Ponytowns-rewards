@@ -49,7 +49,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 !
 
-[DuMmY-Yo](https://github.com/DuMmY-Yo) is pt's Shedletsky!
+[DuMmY-Yo](https://github.com/DuMmY-Yo) is pt's Flowery from Deltarune
 
 [Blame-John](https://github.com/BLAME-JOHN) is pt's Telamon!
 
@@ -266,3 +266,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [MEGAPHONEMAN](https://github.com/MEGAPHONEMAN) is pt's Vagabond from Combat Initiation!
 
 [angel-iivan](https://github.com/angel-iivan) is pt's Till from ALNST!
+
+[fourtysevenstreaks](https://github.com/fourtysevenstreaks) is pt's Secret Agent!
+
+[DreamsAndRJX](https://github.com/DreamsAndRJX) is pt's Marcelo!
