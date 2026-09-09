@@ -3,7 +3,7 @@ https://ponytownawards.atabook.org/ NOMINATE NOW!!
 <img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
 
 
-! Notify if problematic people have been added !
+! Notify if problematic people have been added on our sp! https://ptrewards.straw.page/ !
 
 For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken
 
