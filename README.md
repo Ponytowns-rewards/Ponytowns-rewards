@@ -201,3 +201,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [yellowdeltarune](https://github.com/yellowdeltarune) is pt's Yellow (deltarune)!
 
 [xoxo1ia](https://github.com/xoxo1ia) is pt's Jeff The Killer!
+
+[2quet](https://github.com/2quet) is pt's Bluudud!
+
+[Toxicologies](https://github.com/Toxicologies) is pt's Jabber Wonger!
