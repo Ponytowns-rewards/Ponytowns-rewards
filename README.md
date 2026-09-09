@@ -251,3 +251,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [BEASTGUEST](https://github.com/BEASTGUEST) is pt's Post Forsaken John Doe!
 
 [yellowjackets](https://github.com/yellowjackets) as pt's Lottie matthews!
+
+[dollsection](https://github.com/dollsection) is pt's Veeronica (Forsaken)!
