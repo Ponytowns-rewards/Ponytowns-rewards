@@ -205,3 +205,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [2quet](https://github.com/2quet) is pt's Bluudud!
 
 [Toxicologies](https://github.com/Toxicologies) is pt's Jabber Wonger!
+
+[cr0ssroads](https://github.com/cr0ssroads) is pt's D3rlord3!
