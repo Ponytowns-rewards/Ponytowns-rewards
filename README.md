@@ -270,3 +270,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [fourtysevenstreaks](https://github.com/fourtysevenstreaks) is pt's Secret Agent!
 
 [DreamsAndRJX](https://github.com/DreamsAndRJX) is pt's Marcelo!
+
+[NuclearTimeLordKFC1](https://github.com/NuclearTimeLordKFC1) is pt's Kiba Inuzuka!
