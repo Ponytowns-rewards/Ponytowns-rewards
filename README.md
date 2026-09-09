@@ -199,3 +199,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [johnfortnitekennedy7](https://github.com/johnfortnitekennedy7) is pt's Everywhere at the end of time stage 1!
 
 [yellowdeltarune](https://github.com/yellowdeltarune) is pt's Yellow (deltarune)!
+
+[xoxo1ia](https://github.com/xoxo1ia) is pt's Jeff The Killer!
