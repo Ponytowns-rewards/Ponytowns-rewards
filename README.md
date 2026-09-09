@@ -2,6 +2,8 @@ https://ponytownawards.atabook.org/ NOMINATE NOW!!
 
 ! Notify if problematic people have been added !
 
+For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken
+
 Ask if you want to be removed or change characters ^_^
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
