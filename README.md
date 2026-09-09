@@ -1,5 +1,8 @@
 https://ponytownawards.atabook.org/ NOMINATE NOW!!
 
+<img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
+
+
 ! Notify if problematic people have been added !
 
 For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken
@@ -7,6 +10,10 @@ For character nominations you can only get up to 2, also please check the charac
 Also please dont self nominate for : Prettiest ponies + cuddliest, we will have to get nominations from other people who think your ponies are pretty or if your cuddly! thanks :)
 
 Ask if you want to be removed or change characters ^_^
+
+<img width="68" height="82" alt="image" src="https://github.com/user-attachments/assets/7484b25a-7009-46d2-92f2-33b6fb2f8bf6" />
+Seen this cowboy? this is Xalbur! our mascot! please feel free to cuddle with him if you see him and nominate you or someone else!
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
