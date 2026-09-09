@@ -237,3 +237,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [StrengthinNumb3rs](https://github.com/StrengthinNumb3rs) is pt's Commander from Tower Defense Simulator / TDS!
 
 [StrengthinNumb3rs](https://github.com/StrengthinNumb3rs) is pt's Inv / Enot / Sofanthiel from Rain World!
+
+[ReplicaOfAffection](https://github.com/ReplicaOfAffection) is pt's Fukua from Skullgirls!
