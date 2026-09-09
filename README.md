@@ -233,3 +233,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [DocZandik](https://github.com/DocZandik) is pt's Dottore!
 
 [3lysianangel](https://github.com/3lysianangel) is pt's Elysia!
+
+[StrengthinNumb3rs](https://github.com/StrengthinNumb3rs) is pt's Commander from Tower Defense Simulator / TDS!
