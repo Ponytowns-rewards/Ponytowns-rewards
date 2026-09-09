@@ -223,3 +223,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [DucksEatBreads](https://github.com/DucksEatBreads) is pt's John Jones (Absolute Martian Manhunter)!
 
 [cashreggister](https://github.com/cashreggister) is pt's Goomy (Pokemon)!
+
+[poisonedRitual](https://github.com/poisonedRitual) is pt's Scene Two Time!
