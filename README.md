@@ -197,3 +197,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [travisrapidd](https://github.com/travisrapidd) is pt's Travis Rapid from THE MOON I ROT BEHIND!
 
 [johnfortnitekennedy7](https://github.com/johnfortnitekennedy7) is pt's Everywhere at the end of time stage 1!
+
+[yellowdeltarune](https://github.com/yellowdeltarune) is pt's Yellow (deltarune)!
