@@ -225,3 +225,11 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [cashreggister](https://github.com/cashreggister) is pt's Goomy (Pokemon)!
 
 [poisonedRitual](https://github.com/poisonedRitual) is pt's Scene Two Time!
+
+[oraclegordon](https://github.com/oraclegordon) is pt's Barbara Gordon!
+
+[drfunkbeat](https://github.com/drfunkbeat) is pt's M4tt_wazhere!
+
+[DocZandik](https://github.com/DocZandik) is pt's Dottore!
+
+[3lysianangel](https://github.com/3lysianangel) is pt's Elysia!
