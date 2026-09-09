@@ -207,3 +207,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Toxicologies](https://github.com/Toxicologies) is pt's Jabber Wonger!
 
 [cr0ssroads](https://github.com/cr0ssroads) is pt's D3rlord3!
+
+[ORBITALLOVE](https://github.com/ORBITALLOVE) is pt's Wemmbu!
+
+[wickedirene](https://github.com/wickedirene) is pt's Eggchan!
