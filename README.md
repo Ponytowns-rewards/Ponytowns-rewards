@@ -245,3 +245,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [CambioDeForma](https://github.com/CambioDeForma) is pt's White vsimp!
 
 [CambioDeForma](https://github.com/CambioDeForma) is pt's Edward elric(fma)!
+
+[coypisopilled](https://github.com/coypisopilled) is pt's Coy piso!
+
+[BEASTGUEST](https://github.com/BEASTGUEST) is pt's Post Forsaken John Doe!
+
+[yellowjackets](https://github.com/yellowjackets) as pt's Lottie matthews!
