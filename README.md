@@ -5,7 +5,7 @@ Nominate on [atabook](https://ponytownawards.atabook.org/) NOMINATE NOW!!
 
 ! Notify if problematic people have been added on our [strawpage](https://ptrewards.straw.page/) !
 
-For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken
+For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken, Xalburs extra note: Sorry friends but we don't do "[character] 's yumeshipper" stuff, please don't put that in nominations, character selection is for being the known cosplayer of said character.
 
 Also please dont self nominate for : Prettiest ponies + cuddliest, we will have to get nominations from other people who think your ponies are pretty or if your cuddly! thanks :)
 
