@@ -282,3 +282,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [RuleBr1tannia](https://github.com/RuleBr1tannia) is pt's Barry from gnb!
 
 [deanselle](https://github.com/deanselle) is pt's Azulín from unicorn wars!
+
+[T0R4X](https://github.com/T0R4X) is pt's Medic From Team Fortress 2!
