@@ -272,3 +272,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [DreamsAndRJX](https://github.com/DreamsAndRJX) is pt's Marcelo!
 
 [NuclearTimeLordKFC1](https://github.com/NuclearTimeLordKFC1) is pt's Kiba Inuzuka!
+
+[angelphelps](https://github.com/angelphelps) is pt's Travis Pelps (sally face)!
