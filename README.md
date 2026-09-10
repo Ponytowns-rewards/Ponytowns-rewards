@@ -273,4 +273,4 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [NuclearTimeLordKFC1](https://github.com/NuclearTimeLordKFC1) is pt's Kiba Inuzuka!
 
-[angelphelps](https://github.com/angelphelps) is pt's Travis Pelps (sally face)!
+[angelphelps](https://github.com/angelphelps) is pt's Travis Phelps (sally face)!
