@@ -278,3 +278,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [biteofme](https://github.com/biteofme) is pt's Vox!
 
 [CrypticClues](https://github.com/CrypticClues) is pt's Chuuya Nakahara
+
+[RuleBr1tannia](https://github.com/RuleBr1tannia) is pt's Barry from gnb!
