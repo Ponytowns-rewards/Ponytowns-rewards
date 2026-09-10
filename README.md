@@ -298,3 +298,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [garbagenoise](https://github.com/garbagenoise) is pt's Spamton!
 
 [spacebombed](https://github.com/spacebombed) is pt's Sx5!
+
+[Nadd-nadd](https://github.com/Nadd-nadd) is pt's Katsuki Bakugo!
+
+[Uictim](https://github.com/Uictim) is pt's The Dark Lord (AVA)!
