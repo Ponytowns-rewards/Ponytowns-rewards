@@ -280,3 +280,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [CrypticClues](https://github.com/CrypticClues) is pt's Chuuya Nakahara
 
 [RuleBr1tannia](https://github.com/RuleBr1tannia) is pt's Barry from gnb!
+
+[deanselle](https://github.com/deanselle) is pt's Azulín from unicorn wars!
