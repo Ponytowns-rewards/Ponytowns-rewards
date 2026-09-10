@@ -276,3 +276,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [angelphelps](https://github.com/angelphelps) is pt's Travis Phelps (sally face)!
 
 [biteofme](https://github.com/biteofme) is pt's Vox!
+
+[CrypticClues](https://github.com/CrypticClues) is pt's Chuuya Nakahara
