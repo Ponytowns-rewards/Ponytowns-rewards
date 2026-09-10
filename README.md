@@ -292,3 +292,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [monachgrievings](https://github.com/monachgrievings) is pt's Lord x!
 
 [elliot-builder-fictkin](https://github.com/elliot-builder-fictkin) is pt's Elliot (both WAAPP and Forsaken)!
+
+[anthonytenna](https://github.com/anthonytenna) is pt's Tenna!
+
+[garbagenoise](https://github.com/garbagenoise) is pt's Spamton!
+
+[spacebombed](https://github.com/spacebombed) is pt's Sx5!
