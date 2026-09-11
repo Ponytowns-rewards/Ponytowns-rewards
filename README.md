@@ -312,3 +312,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [devanreedirl](https://github.com/devanreedirl) is pt's Devan Reed from dandys world!
 
 [willythesillybilly](https://github.com/willythesillybilly) is pt's Clockwork!
+
+[TheSpoiledRiches](https://github.com/TheSpoiledRiches) is pt's Adam Murray!
