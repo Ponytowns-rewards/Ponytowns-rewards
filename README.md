@@ -302,3 +302,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Nadd-nadd](https://github.com/Nadd-nadd) is pt's Katsuki Bakugo!
 
 [Uictim](https://github.com/Uictim) is pt's The Dark Lord (AVA)!
+
+[empxxrium](https://github.com/empxxrium) is pt's Leon Kennedy!
+
+[devilheld](https://github.com/devilheld) is pt's Ronin Beaufort from killer chat
