@@ -306,3 +306,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [empxxrium](https://github.com/empxxrium) is pt's Leon Kennedy!
 
 [devilheld](https://github.com/devilheld) is pt's Ronin Beaufort from killer chat
+
+[a-nachoes](https://github.com/a-nachoes) is pt's BADWARE!
+
+[devanreedirl](https://github.com/devanreedirl) is pt's Devan Reed from dandys world!
