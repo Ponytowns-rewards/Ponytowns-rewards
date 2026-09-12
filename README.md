@@ -356,3 +356,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [mega-ambler](https://github.com/mega-ambler) is pt's Mega Ambler!
 
 [mega-ambler](https://github.com/mega-ambler) is pt's Sp3!
+
+[AcxerSonnellino](https://github.com/AcxerSonnellino) is pt's Guest 1337!
