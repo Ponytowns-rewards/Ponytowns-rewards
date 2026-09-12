@@ -39,7 +39,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [Iiquidsmooth](https://github.com/Iiquidsmooth) is pt's Theobaldthebird! 
 
-[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty Boy!
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Facty from Fact Attack Adventures!
 
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
 
@@ -322,3 +322,15 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [unpleasant-like](https://github.com/unpleasant-like) is pt's Unpleasant!
 
 [astrobarrage](https://github.com/astrobarrage) is pt's Fluixon!
+
+[Zankanijikuu](https://github.com/zankanijikuu) is pt's Zanka Nijiku from Gachiakuta!
+
+[supernova-remnants](https://github.com/supernova-remnants) is pt's Thornstaff from Phighting!
+
+[cherryflavoredfoam](https://github.com/cherryflavoredfoam) id pt's Lyla from Spiderverse!
+
+[doomfraid](https://github.com/doomfraid) is pt's Rose Lalonde!
+
+[sejopi](https://github.com/sejopi) is pt's Choso Kamo!
+
+[uv-light](https://github.com/uv-light) is pt's Lute!
