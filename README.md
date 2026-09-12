@@ -346,3 +346,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [R1SING-SUN](https://github.com/R1SING-SUN) is pt's Jay Walker from Ninjago!
 
 [Xeraphieon](https://github.com/Xeraphieon) is pt's Lelouch VI Britannia from code geass!
+
+[0nyvr](https://github.com/0nyvr) is pt's Lobi kKalobi from mau makan apa!
