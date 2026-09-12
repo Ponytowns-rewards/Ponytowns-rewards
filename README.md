@@ -348,3 +348,11 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Xeraphieon](https://github.com/Xeraphieon) is pt's Lelouch VI Britannia from code geass!
 
 [0nyvr](https://github.com/0nyvr) is pt's Lobi kKalobi from mau makan apa!
+
+[metalcardbot](https://github.com/metalcardbot) is pt's Blaion!
+
+[metalcardbot](https://github.com/metalcardbot) is pt's Sp9!
+
+[mega-ambler](https://github.com/mega-ambler) is pt's Mega Ambler!
+
+[mega-ambler](https://github.com/mega-ambler) is pt's Sp3!
