@@ -368,3 +368,5 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [kamiiya07](https://github.com/Kamiiya07) is pt's Boombox!
 
 [itrap-2245](https://github.com/itrap-2245) is pt's Ame-Chan!
+
+[Haruhichann](https://github.com/Haruhichann) is pt's Haruhi Fujioka!
