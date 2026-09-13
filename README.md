@@ -384,3 +384,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [illrotinthesnow](https://github.com/illrotinthesnow) is pt's Wanted!
 
 [illrotinthesnow](https://github.com/illrotinthesnow) is pt's Prisoner!
+
+[electrifypink](https://github.com/electrifypink) is pt's Blind Pursuer!
+
+[electrifypink](https://github.com/electrifypink) is pt's Tixful!
