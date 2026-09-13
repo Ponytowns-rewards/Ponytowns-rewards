@@ -65,7 +65,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [MapleSyrup-dot](https://github.com/mapleSyrup-dot) is pt's Razor!
 
-[VAMPlRISM](https://github.com/VAMPlRISM) is pt's Kris dreemurr from deltarune!
+[deathbanquet](https://github.com/deathbanquet) is pt's Kris dreemurr from deltarune!
 
 [constrz](https://github.com/constrz) is pt's Flambeau!
 
@@ -370,3 +370,17 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [itrap-2245](https://github.com/itrap-2245) is pt's Ame-Chan!
 
 [Haruhichann](https://github.com/Haruhichann) is pt's Haruhi Fujioka!
+
+[tsftIt](https://github.com/tsftIt) is pt's PlanetLord!
+
+[subsp4ce](https://github.com/SUBSP4CE) is pt's Poob/PartyNoob!
+
+[cometcarnage](https://github.com/cometcarnage) is pt's Pest!
+
+[monstermagic](https://github.com/monstermagic) is pt's Pursuer!
+
+[CosmoThePastryy](https://github.com/CosmoThePastryy) is pt's Cosmo the pastry!
+
+[illrotinthesnow](https://github.com/illrotinthesnow) is pt's Wanted!
+
+[illrotinthesnow](https://github.com/illrotinthesnow) is pt's Prisoner!
