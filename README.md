@@ -28,7 +28,7 @@ ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -44,6 +44,8 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Chemicalshot](https://github.com/Chemicalshot) is pt's Facty from Fact Attack Adventures!
 
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
+
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Head Nurse from Animal Hospital!
 
 [twottimey](https://github.com/twottimey) is pt's Two Time!
 
@@ -394,3 +396,13 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [kiwiconiccc](https://github.com/kiwiconiccc) is pt's Saiki Kusuo!
 
 [Gatita-here](https://github.com/Gatita-here) is pt's Mapicc!
+
+[Lax1e](https://github.com/Lax1e) is pt's Marshall the firepup!
+
+[pillowmintss](https://github.com/pillowmintss) is pt's Lloyd Garmadon from Ninjago!
+
+[the-divine-feminine](https://github.com/the-divine-feminine) is pt's Chris Oneill!
+
+[OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pt's Kokomi Teruhashi!
+
+[OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pt's Old Secretary from Animal Hospital!
