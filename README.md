@@ -1,4 +1,4 @@
-Nominate on [atabook](https://ponytownawards.atabook.org/) NOMINATE NOW!!
+Nominate on [atabook](https://ponytownawards.atabook.org/) !!
 
 <img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
 
@@ -20,12 +20,12 @@ Seen this cowboy? this is Xalbur! our mascot! please feel free to cuddle with hi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming)
 
-${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer)
+${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
 
 ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings)
@@ -388,3 +388,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [electrifypink](https://github.com/electrifypink) is pt's Blind Pursuer!
 
 [electrifypink](https://github.com/electrifypink) is pt's Tixful!
+
+[Aminafklol](https://github.com/Aminafklol) is pt's Looey!
+
+[kiwiconiccc](https://github.com/kiwiconiccc) is pt's Saiki Kusuo!
+
+[Gatita-here](https://github.com/Gatita-here) is pt's Mapicc!
