@@ -51,7 +51,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [kniferrific](https://github.com/kniferrific) is pt's ItzskeetXD662!
 
-[dearsonnet](https://github.com/dearsonnet) is pt's Black from vs imposters V4 !
+[truedevotion](https://github.com/truedevotion) is pt's Black from vs imposters V4 !
 
 [DuMmY-Yo](https://github.com/DuMmY-Yo) is pt's Flowery from Deltarune
 
