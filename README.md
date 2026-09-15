@@ -406,3 +406,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pt's Kokomi Teruhashi!
 
 [OHBUNNYBUNNY](https://github.com/OHBUNNYBUNNY) is pt's Old Secretary from Animal Hospital!
+
+[copperbottoms](https://github.com/copperbottoms) is pt's Rodney Copperbottom from Robots!
+
+[Xingqiukisser](https://github.com/Xingqiukisser) is pt's Xingqiu!
