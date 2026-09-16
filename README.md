@@ -28,7 +28,7 @@ ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -432,3 +432,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [cryingdove](https://github.com/cryingdove) is pt's Venti!
 
 [Supreme-Angel](https://github.com/Supreme-Angel) is pt's Gabriel from Ultrakill!
+
+[lettersfromsixteenN](https://github.com/lettersfromsixteenN) is pt's Jess (lf16)!
+
+[Doxdxo](https://github.com/Doxdxo) is pt's Red from Pokespe!
+
+[Social-3](https://github.com/Social-3) is pt's So3!
