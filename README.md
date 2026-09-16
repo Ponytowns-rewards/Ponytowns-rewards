@@ -426,3 +426,9 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [HuaCh3ngzhu](https://github.com/HuaCh3ngzhu) is pt's Gale Cleven from Master Of The Air!
 
 [mgcoiin](https://github.com/mgcoiin) is pt's Goro Akechi!
+
+[donniesgaptooth](https://github.com/donniesgaptooth) is pt's Darth Maul!
+
+[cryingdove](https://github.com/cryingdove) is pt's Venti!
+
+[Supreme-Angel](https://github.com/Supreme-Angel) is pt's Gabriel from Ultrakill!
