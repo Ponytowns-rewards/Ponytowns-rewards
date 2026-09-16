@@ -438,3 +438,8 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Doxdxo](https://github.com/Doxdxo) is pt's Red from Pokespe!
 
 [Social-3](https://github.com/Social-3) is pt's So3!
+
+[filthyjoji](https://github.com/filthyjoji) is pt's Krusty The Clown!
+
+[filthyjoji](https://github.com/filthyjoji) is pt's Filthy Frank!
+
