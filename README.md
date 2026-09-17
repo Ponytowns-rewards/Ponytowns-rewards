@@ -3,7 +3,7 @@ Nominate on [atabook](https://ponytownawards.atabook.org/) !!
 <img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
 
 
-! Notify if problematic people have been added on our [strawpage](https://ptrewards.straw.page/) !
+! Notify if problematic people have been added on our [strawpage](https://ptrewards.straw.page/) , DO NOT NOMINATE ON THE STRAWPAGE, if you decide to nominate, head to our atabook! !
 
 For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken!
 
@@ -440,4 +440,14 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [filthyjoji](https://github.com/filthyjoji) is pt's Krusty The Clown!
 
 [filthyjoji](https://github.com/filthyjoji) is pt's Filthy Frank!
+
+[BeezieBug](https://github.com/BeezieBug) is pt's Caretaker!
+
+[wikiliusdarling](https://github.com/wikiliusdarling) is pt's Wikilius from Guts and Blackpowder!
+
+[katewoon](https://github.com/katewoon) is pt's q!Katie B!
+
+[katewoon](https://github.com/katewoon) is pt's q!Vanillamace!
+
+[aph-Prussia](https://github.com/aph-Prussia) is pt's Prussia from Axis Powers : Hetalia!
 
