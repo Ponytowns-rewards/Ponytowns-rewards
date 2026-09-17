@@ -417,8 +417,6 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [shellydafossil](https://github.com/shellydafossil) is pt's Shelly Fossilian!
 
-[Cindercrestsglory](https://github.com/Cindercrestsglory) is pt's Lloyd Garmadon from Ninjago!
-
 [neverwanted2dance](https://github.com/neverwanted2dance) is pt's Vee Version 1!
 
 [scagalicous](https://github.com/scagalicous) is pt's Scag!
