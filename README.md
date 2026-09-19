@@ -451,3 +451,16 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [aph-Prussia](https://github.com/aph-Prussia) is pt's Prussia from Axis Powers : Hetalia!
 
+[nerobutt](https://github.com/nerobutt) is pt's Tohru Adachi!
+
+[hachitupperwaresS](https://github.com/hachitupperwaresS) is pt's Dol9hin!
+
+[IAMMADEOFMEAT](https://github.com/IAMMADEOFMEAT) is pt's AndreW2002!
+
+[kaiserwilh3lm](https://github.com/kaiserwilh3lm) is pt's German Empire! (Country Humans)
+
+[Heart0fGold](https://github.com/Heart0fGold) is pt's Pt's Karl! (Guts & Blackpowder)
+
+[Heart0fGold](https://github.com/Heart0fGold) is pt's Michel Ney! (Napoleonic Wars)
+
+[Ham-milton](https://github.com/Ham-milton) is pt's Scared French Soldier! (from Guts & Blackpowder)
