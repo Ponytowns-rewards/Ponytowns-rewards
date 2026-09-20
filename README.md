@@ -23,7 +23,7 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband)
 
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
@@ -464,3 +464,23 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Heart0fGold](https://github.com/Heart0fGold) is pt's Michel Ney! (Napoleonic Wars)
 
 [Ham-milton](https://github.com/Ham-milton) is pt's Scared French Soldier! (from Guts & Blackpowder)
+
+[letsdosomemagicstuff](https://github.com/Letsdosomemagicstuff) is pt's Freddie Dary!
+
+[sw33tsug4rcookie](https://github.com/sw33tsug4rcookie) is pt's Ginger The Cookie!
+
+[puppiepopper](https://github.com/puppiepopper) is pt's Isamu Uchiumi!
+
+[Sproutkin](https://github.com/Sproutkin) is pt's Sprout Seedly!
+
+[commandsatdusk](https://github.com/commandsatdusk) is pt's Alexander Hamilton!
+
+[sicklyheretic](https://github.com/sicklyheretic) is pt's Ewron!
+
+[miukei](https://github.com/miukei) is pt's Jill Valentine!
+
+[r0wlys](https://github.com/r0wlys) is pt's Ryland Grace!
+
+[fourthdoctor](https://github.com/fourthdoctor) is pt's Timelord!
+
+[fourthdoctor](https://github.com/fourthdoctor) is pt's Fourth Doctor!
