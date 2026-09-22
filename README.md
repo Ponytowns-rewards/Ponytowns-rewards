@@ -484,3 +484,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [fourthdoctor](https://github.com/fourthdoctor) is pt's Timelord!
 
 [fourthdoctor](https://github.com/fourthdoctor) is pt's Fourth Doctor!
+
+[alfredismygramps](https://github.com/alfredismygramps) is pt's Fatson Todd!
+
+[alfredismygramps](https://github.com/alfredismygramps) is pt's Dick Grayson!
