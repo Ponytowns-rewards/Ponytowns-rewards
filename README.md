@@ -485,3 +485,13 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [fourthdoctor](https://github.com/fourthdoctor) is pt's Fourth Doctor!
 
+[alfiepennyworth](https://github.com/alfiepennyworth) is pt's Alfred Pennyworth!
+
+[fruitsaIad](https://github.com/fruitsaIad) is pt's Jax! (TADC)
+
+[B00SF3R](https://github.com/B00SF3R) is pt's Boosfer!
+
+[shinjuwerty](https://github.com/shinjuwerty) is pt's Megumi Fushiguro! (jjk)
+
+[HARRlNGTON](https://github.com/HARRlNGTON) is pt's Steve Harrington!
+
