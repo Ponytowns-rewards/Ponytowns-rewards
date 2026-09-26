@@ -20,7 +20,7 @@ Seen this cowboy? this is Xalbur! our mascot! please feel free to cuddle with hi
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan), [Hexcodesarchives](https://github.com/hexcodesarchives)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband)
@@ -503,8 +503,10 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [ultluck](https://github.com/ultluck) is pt's Nagito Komaeda!
 
-[screworangeslugs](https://github.com/screworangeslugs) is pt's Beatzzpurminote!
+[OlgaSinxer](https://github.com/OlgaSinxer) is pt's Beatzzpurminote!
 
 [007n7zboyfriend](https://github.com/007n7zboyfriend) is pt's Sayori! (DDLC)
 
 [dolli3ciful](https://github.com/dolli3ciful) is pt's Shadow Milk Cookie!
+
+[screworangeslugs](https://github.com/screworangeslugs) is pt's Newbie from Hoops&Yoyo!
