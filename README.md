@@ -495,3 +495,16 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [HARRlNGTON](https://github.com/HARRlNGTON) is pt's Steve Harrington!
 
+[5P-25](https://github.com/5P-25) is pt's Five Pebbles from RAIN WORLD!
+
+[vinespace](https://github.com/vinespace) is pt's Starlight from MLP!
+
+[theemotionalside](https://github.com/theemotionalside) is pt's The Heart from Chonny's Charming Chaos Compendium!
+
+[ultluck](https://github.com/ultluck) is pt's Nagito Komaeda!
+
+[screworangeslugs](https://github.com/screworangeslugs) is pt's Beatzzpurminote!
+
+[007n7zboyfriend](https://github.com/007n7zboyfriend) is pt's Sayori! (DDLC)
+
+[dolli3ciful](https://github.com/dolli3ciful) is pt's Shadow Milk Cookie!
