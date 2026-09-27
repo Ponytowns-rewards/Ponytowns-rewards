@@ -349,7 +349,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [Xeraphieon](https://github.com/Xeraphieon) is pt's Lelouch VI Britannia from code geass!
 
-[0nyvr](https://github.com/0nyvr) is pt's Lobi kKalobi from mau makan apa!
+[0nyvr](https://github.com/0nyvr) is pt's Lobi Kalobi from mau makan apa!
 
 [metalcardbot](https://github.com/metalcardbot) is pt's Blaion!
 
@@ -435,7 +435,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [Doxdxo](https://github.com/Doxdxo) is pt's Red from Pokespe!
 
-[Social-3](https://github.com/Social-3) is pt's So3!
+[RottenPlate](https://github.com/RottenPlate) is pt's So3!
 
 [filthyjoji](https://github.com/filthyjoji) is pt's Krusty The Clown!
 
@@ -510,3 +510,13 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [dolli3ciful](https://github.com/dolli3ciful) is pt's Shadow Milk Cookie!
 
 [screworangeslugs](https://github.com/screworangeslugs) is pt's Newbie from Hoops&Yoyo!
+
+[FIamereaver](https://github.com/FIamereaver) is pt's Flamereaver!
+
+[heavenslapdog](https://github.com/heavenslapdog) is pt's Monkie Kid! (lego monkie kid)
+
+[amseiii](https://github.com/amseiii) is pt's Amy Rose!
+
+[S0NICSZ](https://github.com/S0NICSZ) is pt's Sonic!
+
+[S0NICSZ](https://github.com/S0NICSZ) is pt's Exeller!
