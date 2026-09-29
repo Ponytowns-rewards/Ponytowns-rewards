@@ -23,7 +23,7 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan), [Hexcodesarchives](https://github.com/hexcodesarchives)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband), [dollachyreiss](https://github.com/dollachyreiss)
 
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
@@ -107,7 +107,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [plsticpup](https://github.com/plsticpup) is pt's Nightwing!
 
-[sebvsene](https://github.com/sebvsene) is pt's Jason Todd!
+[hood-net](https://github.com/hood-net) is pt's Jason Todd!
 
 [timstalkerdrake](https://github.com/timstalkerdrake) is pt's Tim Drake!
 
@@ -520,3 +520,29 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [S0NICSZ](https://github.com/S0NICSZ) is pt's Sonic!
 
 [S0NICSZ](https://github.com/S0NICSZ) is pt's Exeller!
+
+[D41SYFLOWER](https://github.com/D41SYFLOWER) is pt's Elf Collecter!
+
+[thirdlotusprince](https://github.com/thirdlotusprince) is pt's Nezha!
+
+[Persona3FES](https://github.com/Persona3FES) is pt's Bloody Painter/Helen Otis!
+
+[flaskofvodka](https://github.com/flaskofvodka) is pt's Tom! (Eddsworld)
+
+[D41SYFLOWER](https://github.com/D41SYFLOWER) is pt's Anya Forger from Spy X Family!
+
+[itrappedfan](https://github.com/itrappedfan) is pt's FroggydudeMc!
+
+[felixylixywoah](https://github.com/felixylixywoah) is pt's Felix from Piggy!
+
+[putmetorestimnotyourstosave](https://github.com/putmetorestimnotyourstosave) Is pt's Furina!
+
+[PESKYMAILMAN](https://github.com/PESKYMAILMAN) is pt's Ban Hammer from Phighting!
+
+[ilovegraysons](https://github.com/ilovegraysons) is pt's Mark Grayson from Invincible!
+
+[venetianblindman](https://github.com/venetianblindman) is pt's Maria Robotnik!
+
+[venetianblindman](https://github.com/venetianblindman) is pt's Kylie/Unnamed Amy Vessel!
+
+[bridalbait](https://github.com/BRIDALBAIT) is pt's Black Forest Cookie!
