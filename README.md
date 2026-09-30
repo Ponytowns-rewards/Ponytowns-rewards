@@ -505,8 +505,6 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [OlgaSinxer](https://github.com/OlgaSinxer) is pt's Beatzzpurminote!
 
-[007n7zboyfriend](https://github.com/007n7zboyfriend) is pt's Sayori! (DDLC)
-
 [dolli3ciful](https://github.com/dolli3ciful) is pt's Shadow Milk Cookie!
 
 [screworangeslugs](https://github.com/screworangeslugs) is pt's Newbie from Hoops&Yoyo!
