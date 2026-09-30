@@ -544,3 +544,13 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [venetianblindman](https://github.com/venetianblindman) is pt's Kylie/Unnamed Amy Vessel!
 
 [bridalbait](https://github.com/BRIDALBAIT) is pt's Black Forest Cookie!
+
+[fragranceofhope](https://github.com/fragranceofhope) is pt's Flowery from Deltarune!
+
+[drjonathancrane](https://github.com/drjonathancrane) is pt's Jonathan Crane!
+
+[xde3vin](https://github.com/xde3vin) Is pt's Loveshot from DOD!
+
+[Dexholder](https://github.com/dexholder) is pt's Gold from Pokespe!
+
+[Twixxel-Lessgo](https://github.com/Twixxel-Lessgo) is pt's Twixxel!
