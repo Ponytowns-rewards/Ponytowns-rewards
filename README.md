@@ -554,3 +554,13 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [Dexholder](https://github.com/dexholder) is pt's Gold from Pokespe!
 
 [Twixxel-Lessgo](https://github.com/Twixxel-Lessgo) is pt's Twixxel!
+
+[mis4nthrope](https://github.com/mis4nthrope) is pt's Sethos from Genshin Impact!
+
+[tszaelria](https://github.com/tszaelria) is pt's Cai'er from Throne of Seal!
+
+[multifandomyay](https://github.com/MultiFandomyay) is pt's Princezam!
+
+[multifandomyay](https://github.com/MultiFandomyay) is pt's Rejoicin!
+
+[TIMMYMcnaughtonAYY](https://github.com/TIMMYMcnaughtonAYY) is pt's Timmy Mcnaughton!
