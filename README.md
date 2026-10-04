@@ -161,15 +161,11 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [naturalharmoniaa](https://github.com/naturalharmoniaa) is pt's Natural Harmonia Gropius/N (Pokémon)!
 
-[SilverShepard](https://github.com/SilverShepard) is pt's Miles Morales!
-
 [purefatal](https://github.com/purefatal) is pt's Grimjow!
 
 [Aspenolia](https://github.com/Aspenolia) is pt's Lord Azurewrath from Regnum Sombra / Voidtales!
 
 [Z33r00LagsAlot](https://github.com/Z33r00LagsAlot) is pt's Duke Thomas!
-
-[Bigguykoi](https://github.com/Bigguykoi) is pt's Tony Stark!
 
 [Navistel](https://github.com/Navistel) is pt's Dan Heng!
 
@@ -308,6 +304,8 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [empxxrium](https://github.com/empxxrium) is pt's Leon Kennedy!
 
 [devilheld](https://github.com/devilheld) is pt's Ronin Beaufort from killer chat
+
+
 
 [a-nachoes](https://github.com/a-nachoes) is pt's BADWARE!
 
@@ -564,3 +562,33 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [multifandomyay](https://github.com/MultiFandomyay) is pt's Rejoicin!
 
 [TIMMYMcnaughtonAYY](https://github.com/TIMMYMcnaughtonAYY) is pt's Timmy Mcnaughton!
+
+[chillingdevotion](https://github.com/chillingdevotion) is pt's Bryan Hodukavich!
+
+[toastedmarshmellows](https://github.com/toastedmarshmellows) is pt's Eyeless Jack!
+
+[stevengrants](https://github.com/stevengrants) is pt's Steven Grant / Moon Knight!
+
+[W1TCHK1LL3R](https://github.com/W1TCHK1LL3R) is pt's Regina Mills!
+
+[WanderersWife](https://github.com/WanderersWife) is pt's Wanderer! (Genshin Impact)
+
+[Lapfoxtrax](https://github.com/lapfoxtrax) is pt's Kim Kitsuragi!
+
+[Lapfoxtrax](https://github.com/lapfoxtrax) is pt's Franco Barbi!
+
+[Nerosuince](https://github.com/Nerosuince) is pt's Andrew! (Bad Things)
+
+[tomatosu](https://github.com/tomatosu) is pt's Sasuke Uchiha!
+
+[z0mbiepup](https://github.com/z0mbiepup) is pt's Yatta!
+
+[z0mbiepup](https://github.com/z0mbiepup) is pt's Susie Lavoie!
+
+[lunarpools](https://github.com/lunarpools) is pt's Miles Tails Prower!
+
+[0rmnff](https://github.com/0rmnff) is pt's Natasha Romanoff!
+
+[3LEVENTH](https://github.com/3LEVENTH) is pt's Childe!
+
+[REDD0ONS](https://github.com/REDD0ONS) is pt's Reddoons!
