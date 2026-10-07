@@ -23,7 +23,7 @@ ${\textsf{\color{#EFE5C1} Prettiest}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan), [Hexcodesarchives](https://github.com/hexcodesarchives)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband), [dollachyreiss](https://github.com/dollachyreiss)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband), [dollachyreiss](https://github.com/dollachyreiss), [Rib0mbee](https://github.com/Rib0mbee)
 
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
@@ -105,7 +105,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [qnakin](https://github.com/qnakin) is pt's Anakin Skywalker!
 
-[plsticpup](https://github.com/plsticpup) is pt's Nightwing!
+[vaciIIator](https://github.com/vaciIIator) is pt's Nightwing!
 
 [hood-net](https://github.com/hood-net) is pt's Jason Todd!
 
@@ -304,8 +304,6 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [empxxrium](https://github.com/empxxrium) is pt's Leon Kennedy!
 
 [devilheld](https://github.com/devilheld) is pt's Ronin Beaufort from killer chat
-
-
 
 [a-nachoes](https://github.com/a-nachoes) is pt's BADWARE!
 
@@ -592,3 +590,29 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [3LEVENTH](https://github.com/3LEVENTH) is pt's Childe!
 
 [REDD0ONS](https://github.com/REDD0ONS) is pt's Reddoons!
+
+[thesorrowingbody](https://github.com/thesorrowingbody) is pt's Sunday!
+
+[M4rkus101](https://github.com/M4rkus101) is pt's Mark101 from TBoTV!
+
+[0chirga](https://github.com/0chirga) is pt's Narancia Chirga!
+
+[cozywarmth](https://github.com/cozywarmth) is pt's Osamu Dazai!
+
+[calemholic](https://github.com/calemholic) is pt's Calem from Pokémon!
+
+[bakeryofseals](https://github.com/bakeryofseals) is pt's Seele Vollerei from Honkai Impact 3rd!
+
+[Cannibalsobsession](https://github.com/Cannibalsobsession) is pt's Poppy!
+
+[SOILMENT](https://github.com/SOILMENT) is pt's Scarlet Witch!
+
+[peestainedcarpet](https://github.com/peestainedcarpet) is pt's Honcho from Doors!
+
+[spam-tune](https://github.com/spam-tune) is pt's Human Mr Ant Tenna!
+
+[j0shdun](https://github.com/j0shdun) is pt's Josh Dun!
+
+[ghostly-sorrows](https://github.com/ghostly-sorrows) is pt's Empool from Gachiakuta!
+
+[violetbugz](https://github.com/VIOLETBUGZ) is pt's Sword from Phighting!
