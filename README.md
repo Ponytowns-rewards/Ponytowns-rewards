@@ -45,7 +45,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST) is pt's Mafioso! 
 
-[Chemicalshot](https://github.com/Chemicalshot) is pt's Head Nurse from Animal Hospital!
+[Chemicalshot](https://github.com/Chemicalshot) is pt's Bunny from Piggy!
 
 [twottimey](https://github.com/twottimey) is pt's Two Time!
 
