@@ -461,7 +461,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [Ham-milton](https://github.com/Ham-milton) is pt's Scared French Soldier! (from Guts & Blackpowder)
 
-[letsdosomemagicstuff](https://github.com/Letsdosomemagicstuff) is pt's Freddie Dary!
+[Thefreddiedary](https://github.com/Thefreddiedary) is pt's Freddie Dary!
 
 [sw33tsug4rcookie](https://github.com/sw33tsug4rcookie) is pt's Ginger The Cookie!
 
@@ -616,3 +616,21 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [ghostly-sorrows](https://github.com/ghostly-sorrows) is pt's Empool from Gachiakuta!
 
 [violetbugz](https://github.com/VIOLETBUGZ) is pt's Sword from Phighting!
+
+[Worm-Farmer](https://github.com/Worm-Farmer) is pt's Green! (Among us show)
+
+[BloodKissed](https://github.com/BloodKissed) is pt's Gardevoir!
+
+[D3V0TION](https://github.com/D3V0TION) is pt's Ivan from Bad Things!
+
+[witherduo](https://github.com/witherduo) is pt's ImpulseSV from hermitcraft/life series!
+
+[ringodemon](https://github.com/ringodemon) is pt's Zuka from Phighting!
+
+[darktree](https://github.com/darktree) is pt's Eclipse from Dandys World!
+
+[TONEEDEAFF](https://github.com/TONEEDEAFF) is pt's Reaper from Overwatch!
+
+[gardenofdelight](https://github.com/gardenofdelight) is pt's Eternal Sugar Cookie!
+
+[mydeiirl](https://github.com/mydeiirl) is pt's Mydei from HSR!
