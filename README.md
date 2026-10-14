@@ -28,7 +28,7 @@ ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3), [princezammies](https://github.com/princezammies)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -617,7 +617,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [violetbugz](https://github.com/VIOLETBUGZ) is pt's Sword from Phighting!
 
-[Worm-Farmer](https://github.com/Worm-Farmer) is pt's Green! (Among us show)
+[Worm-Farmer](https://github.com/Worm-Farmer) is pt's Pink from Among Us! (Rodamrix)
 
 [BloodKissed](https://github.com/BloodKissed) is pt's Gardevoir!
 
@@ -634,3 +634,23 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [gardenofdelight](https://github.com/gardenofdelight) is pt's Eternal Sugar Cookie!
 
 [mydeiirl](https://github.com/mydeiirl) is pt's Mydei from HSR!
+
+[davemension](https://github.com/davemension) is pt's Ramb! (Deltarune)
+
+[Kittyypop](https://github.com/kittyypop) is pt's Eunoia! (Frozen Soul/DG)
+
+[Thefreddiedary](https://github.com/Thefreddiedary) is pt's Cloak! (Marvel Rivals)
+
+[Thefreddiedary](https://github.com/Thefreddiedary) is pt's Dagger! (Marvel Rivals)
+
+[ABYSSALCHOIR](https://github.com/ABYSSALCHOIR) is pt's Awita! (MCYT)
+
+[trickzterrr](https://github.com/Trickzterrr) is pt's Ultron from Marvel!
+
+[HybridDBz](https://github.com/HybridDBz) is pt's Hybrid! (Decayed Brigade)
+
+[daybreakcoalition](https://github.com/daybreakcoalition) is pt's Angeredfish from Ocean Terror!
+
+[0nyvr](https://github.com/0nyvr) is pt's Bambang from Mau Makan Apa!
+
+[puptrickz](https://github.com/puptrickz) is pt's Jimmy Hopkins from Bully!
