@@ -1,3 +1,4 @@
+
 Nominate on [atabook](https://ponytownawards.atabook.org/) !!
 
 <img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
@@ -28,7 +29,7 @@ ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl) [alfiepennyworth](https://github.com/alfiepennyworth)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3), [princezammies](https://github.com/princezammies)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3), [princezammies](https://github.com/princezammies), [bannysuperman](https://github.com/bannysuperman), [mentally-stable](https://github.com/mentally-stable)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -543,7 +544,7 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 
 [fragranceofhope](https://github.com/fragranceofhope) is pt's Flowery from Deltarune!
 
-[drjonathancrane](https://github.com/drjonathancrane) is pt's Jonathan Crane!
+[gracerockysavepax](https://github.com/alfredismygramps) is pt's Jonathan Crane!
 
 [xde3vin](https://github.com/xde3vin) Is pt's Loveshot from DOD!
 
@@ -670,3 +671,29 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [MissingTextuer](https://github.com/MissingTextuer) is pt's Fangsworth! (Regretevator)
 
 [ilikegeodes](https://github.com/Ilikegeodes) is pt's Damian Wayne! (DC)
+
+[Iwasbehindit](https://github.com/Iwasbehindit) is pt's Alex Kralie from Marble Hornets!
+
+[zombiebastard](https://github.com/zombiebastard) is pt's Evan/Habit from EverymanHybrid / EMH!
+
+[Scrapsfullfic](https://github.com/ScrapsFullfic) is pt's Scraps from Dandys World!
+
+[SQUEVIL](https://github.com/SQUEVIL) is pt's Squiddo! (mcyt)
+
+[KayleighJudas](https://github.com/KayleighJudas) is pt's Viktor from Arcane League of Legends!
+
+[sakasamagirlfeeling](https://github.com/sakasamagirlfeeling) is pt's Aoki Lapis!
+
+[sakasamagirlfeeling](https://github.com/sakasamagirlfeeling) is pt's Sage-Chan from inabakumori!
+
+[evilmortyglazer666](https://github.com/evilmortyglazer666) is pt's Evil Morty!
+
+[Yunilaili](https://github.com/Yunilaili) is pt's Xeladrag from the void cult!
+
+[StairwayToHeaven](https://github.com/StairwayToHeaven) is pt's White Lily Cookie!
+
+[Sanguinevampyre](https://github.com/SanguineVampyre) is pt's Boothill!
+
+[SilverShepard](https://github.com/SilverShepard) is pt's Aaron Burr! (Hamilton)
+
+[fragileflaw](https://github.com/fragileflaw) is pt's Mr. Knight (MoonKnight)!
