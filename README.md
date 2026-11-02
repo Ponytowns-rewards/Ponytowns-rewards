@@ -14,14 +14,15 @@ Also please dont self nominate for : Prettiest ponies + cuddliest, we will have 
 
 Ask if you want to be removed or change characters ^_^
 
-<img width="68" height="82" alt="image" src="https://github.com/user-attachments/assets/7484b25a-7009-46d2-92f2-33b6fb2f8bf6" />
+<img width="169" height="152" alt="image" src="https://github.com/user-attachments/assets/beb7f8b9-9b0a-47c3-829a-9b293db2c67d" />
+
 Seen this cowboy? this is Xalbur! our mascot! please feel free to cuddle with him if you see him and nominate you or someone else!
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75D67&width=435&lines=We+want++you+to+nominate+yourself+NOW!)](https://git.io/typing-svg)
 
 ${\textsf{\color{#EFE5C1} Prettiest}}$
-[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan), [Hexcodesarchives](https://github.com/hexcodesarchives), [deanwnchstr](https://github.com/deanwnchstr)
+[Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [VAMPlRISM](https://github.com/VAMPlRISM), [Glistenn](https://github.com/Glistenn), [IHASAFACE-LULZ](https://github.com/IHASAFACE-LULZ), [duxlucens](https://github.com/duxlucens), [constrz](https://github.com/constrz), [kazutorawr](https://github.com/kazutorawr), [pupfies](https://github.com/pupfies), [sv1nzxu](https://github.com/sv1nzxu), [itrap-2245](https://github.com/itrap-2245), [wickedirene](https://github.com/wickedirene), [pyrionlyx](https://github.com/pyrionlyx), [peestainedcarpet](https://github.com/peestainedcarpet), [parusite](https://github.com/parusite), [shoelessorphan](https://github.com/shoelessorphan), [Hexcodesarchives](https://github.com/hexcodesarchives), [deanwnchstr](https://github.com/deanwnchstr), [5W33TCH0C0L4T3](https://github.com/5W33TCH0C0L4T3), [hauntedarchives](https://github.com/hauntedarchives)
 
 ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 [Iiquidsmooth](https://github.com/Iiquidsmooth), [Chemicalshot](https://github.com/Chemicalshot), [plsticpup](https://github.com/plsticpup), [77crescentmoon](https://github.com/77crescentmoon), [Senros3](https://github.com/Senros3), [sorrowfulpredict](https://github.com/sorrowfulpredict), [twotiming](https://github.com/twotiming), [42-MILES](https://github.com/42-MILES), [parusite](https://github.com/parusite), [Thehuntershusband](https://github.com/TheHuntersHusband), [dollachyreiss](https://github.com/dollachyreiss), [Rib0mbee](https://github.com/Rib0mbee)
@@ -29,7 +30,7 @@ ${\textsf{\color{#EFE5C1} Top AFK'ers}}$
 ${\textsf{\color{#EFE5C1} Cuddliest players}}$ [kniferrific](https://github.com/kniferrific), [self-preservation8](https://github.com/self-preservation8), [Chemicalshot](https://github.com/Chemicalshot), [SilverShepard](https://github.com/SilverShepard), [deadbridewalking](https://github.com/deadbridewalking), [yellowdeltarune](https://github.com/yellowdeltarune), [Mayumixx](https://github.com/Mayumixx), [olgasinxer](https://github.com/OlgaSinxer), [pyrionlyx](https://github.com/pyrionlyx), [fukounagirl](https://github.com/fukounagirl) [alfiepennyworth](https://github.com/alfiepennyworth)
 
 
-${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3), [princezammies](https://github.com/princezammies), [bannysuperman](https://github.com/bannysuperman), [mentally-stable](https://github.com/mentally-stable)
+${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/electrifypink,) [self-preservation8](https://github.com/self-preservation8), [naturalharmoniaa](https://github.com/naturalharmoniaa), [Navistel](https://github.com/Navistel), [Chr1mas](https://github.com/Chr1mas), [c-utesy](https://github.com/c-utesy), [angel-iivan](https://github.com/angel-iivan), [denguemon](https://github.com/denguemon), [monachgrievings](https://github.com/monachgrievings), [kremnoanprince](https://github.com/kremnoanprince), [Noctiluvancy](https://github.com/Noctiluvancy), [cr0ssroads](https://github.com/cr0ssroads), [Social-3](https://github.com/Social-3), [princezammies](https://github.com/princezammies), [bannysuperman](https://github.com/bannysuperman), [mentally-stable](https://github.com/mentally-stable), [haIImarkcards](https://github.com/haIImarkcards)
 
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
@@ -705,3 +706,53 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [NoelleTheDeer](https://github.com/NoelleTheDeer) is pt's Noelle Holiday! (Deltarune)
 
 [K1R5MM5N](https://github.com/K1R5MM5N) is pt's Caitlyn Kiramman!
+
+[V0RTlGERN](https://github.com/V0RTlGERN) is pt's Oberon Vortigern from fgo!
+
+[sharpfrostcherv](https://github.com/sharpfrostcherv) is pt's Camryn Rapid!
+
+[KAITO-Sshion](https://github.com/KAITO-Sshion) is pt's Goro Akechi from Persona5!
+
+[UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is pt's Noli! (specific game okay)
+
+[Lexacyan](https://github.com/lexacyan) is pt's Chris with Rudy!
+
+[Lexacyan](https://github.com/lexacyan) is pt's Ejen ali!
+
+[t0uchtonetelephone](https://github.com/T0uchtonetelephone) is pt's Cesar Toress from The mandela Catalogue!
+
+[foilsiick](https://github.com/foilsiick) is pt's V from Devil May Cry 5!
+
+[dantestheonefr](https://github.com/dantestheonefr) is pt's Dante from dmc 3 from docks!
+
+[maapicc](https://github.com/maapicc) is pt's Mapicc!
+
+[mydearmeIancholy](https://github.com/mydearmeIancholy) is pt's Power from chainsaw man!
+
+[kacchanofthebakugos](https://github.com/kacchanofthebakugos) is pt's Bakugo!
+
+[mortisfication](https://github.com/mortisfication) is pt's lightning mcqueen from cars!
+
+[Kamvampyre](https://github.com/Kamvampyre) is pt's Argenti!
+
+[bakingdisaster](https://github.com/bakingdisaster) is pt's Sprout Seedly!
+
+[CressidaAsteriades](https://github.com/CressidaAsteriades) is pt's Natsuki from the summer Hikaru died!
+
+[hiddensunshine](https://github.com/hiddensunshine) is pt's Kyrie from DMC!
+
+[VIVE-LA-FRANCEc](https://github.com/VIVE-LA-FRANCEc) is pt's Napoleon from Napoleonic Wars!
+
+[senjurochistic](https://github.com/Senjurochistic) is pt's Senjuro Rengoku!
+
+[kyanmakozume](https://github.com/kyanmakozume) is pt's kenma kozume from haikyuu!
+
+[sanguinesilence](https://github.com/sanguinesilence) is pt's blot from dandy's world!
+
+[Wonderdream404](https://github.com/Wonderdream404) is pt's yveltal from Pokemon!
+
+[sungsun0](https://github.com/sungsun0) is pt's Jeff Satur!
+
+[lcorp-wingfounder](https://github.com/lcorp-wingfounder) is pt's Ayin! (Lobotomy Corporation)
+
+[skephaloyaoi](https://github.com/skephaloyaoi) is pt's badboyhalo!
