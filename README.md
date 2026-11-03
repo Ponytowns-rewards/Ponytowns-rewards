@@ -4,7 +4,7 @@ Nominate on [atabook](https://ponytownawards.atabook.org/) !!
 <img width="320" height="241" alt="image" src="https://github.com/user-attachments/assets/07b38a1e-de0c-4433-bda5-47e01c0ccf10" />
 
 
-! Notify if problematic people have been added on our [strawpage](https://ptrewards.straw.page/) , DO NOT NOMINATE ON THE STRAWPAGE, if you decide to nominate, head to our atabook! !
+! Notify if problematic people have been added on our [strawpage](https://ptrewards.straw.page/) , DO NOT NOMINATE ON THE STRAWPAGE, if you decide to nominate, head to our atabook! make sure to dm me on discord to talk about it user is in sp !
 
 For character nominations you can only get up to 2, also please check the character list incase the character you want to get the title of is already taken, I lately had problems of people not checking or not checking carefully and nominating for a character that is taken!
 
@@ -470,8 +470,6 @@ ${\textsf{\color{#EFE5C1} Pretty githubs}}$ [electrifypink](https://github.com/e
 [puppiepopper](https://github.com/puppiepopper) is pt's Isamu Uchiumi!
 
 [Sproutkin](https://github.com/Sproutkin) is pt's Sprout Seedly!
-
-[commandsatdusk](https://github.com/commandsatdusk) is pt's Alexander Hamilton!
 
 [sicklyheretic](https://github.com/sicklyheretic) is pt's Ewron!
 
